@@ -2,7 +2,7 @@
 
 The spirit of WAGMI, now in your Flutter app.
 
-Delectable is platform for managing and distributing rewards to users for completing challenges/bounties within your app.
+Delectable is a platform for managing and distributing rewards to users for completing challenges/bounties within your app.
 
 ## Features
 
